@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLitEjemplo</string>
+    <string name="registrar">Registrar</string>
+    <string name="consultar">Consultar</string>
+    <string name="listar">Listar</string>
+    <string name="tiempo">00:00</string>
+    <string name="tiempo2">tiempo</string>
+    <string name="Aciertos">n.Aciertos</string>
+    <string name="Puntaje">n.Puntajes</string>
+    <string name="guardar">Guardar</string>
+    <string name="Lista">Lista</string>
+    <string name="Celectronico">correo electronico</string>
+    <string name="password">Password</string>
+</resources>

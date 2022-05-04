@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityConsultar">
+
+
+    <EditText
+        android:id="@+id/etIdBusqueda"
+        android:layout_width="400dp"
+        android:layout_height="63dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Busqueda" />
+
+    <EditText
+        android:id="@+id/etMostrarNombre"
+        android:layout_width="394dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Nombre"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <EditText
+        android:id="@+id/etMostrarTelefono"
+        android:layout_width="402dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Telefono"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="186dp" />
+
+    <Button
+        android:id="@+id/btnBuscar"
+        android:layout_width="264dp"
+        android:layout_height="54dp"
+        android:text="Buscar"
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="286dp" />
+</LinearLayout>
